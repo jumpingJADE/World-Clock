@@ -20,8 +20,8 @@ StyledPointer.defaultProps = {
   $white: '#fff',
   $black: '#091921',
   $light: true,
-  $bg_white: 'url(public/images/clock_white.webp)',
-  $bg_black: 'url(public/images/clock_black.webp)',
+  $bg_white: 'url(/images/white.webp)',
+  $bg_black: 'url(/images/black.webp)',
   $bg_white_box_shadow:
     "inset 0 0 30px rgba(0, 0, 0, 0.1), 0 20px 20px rgba(0,0,0,0.2), 0 0 0 4px rgba(255,255,255,1)",
   $bg_black_box_shadow:
